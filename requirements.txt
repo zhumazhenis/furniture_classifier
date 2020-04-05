@@ -5,3 +5,5 @@ Flask-WTF==0.14.2
 ibm-watson==4.0.1
 
 python-dotenv==0.10.3
+
+werkzeug==0.16.1
